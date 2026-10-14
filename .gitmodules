@@ -1,6 +1,6 @@
 [submodule "lv2"]
 	path = deps/lv2
-	url = https://github.com/lv2/lv2
+	url = https://github.com/mod-audio/lv2
 [submodule "deps/NeuralAudio"]
 	path = deps/NeuralAudio
-	url = https://github.com/mikeoliphant/NeuralAudio
+	url = https://github.com/mod-audio/NeuralAudio
